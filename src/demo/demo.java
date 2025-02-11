@@ -13,7 +13,6 @@ public class demo {
 		System.out.println("linea para el rebase de ramaTrabajo2");
 		System.out.println("linea para el rebase");
 		System.out.println("linea para el rebase");
-
 		System.out.println("linea 5 - rebase ramaTrabajo");
 }
 }
